@@ -1,0 +1,8 @@
+[submodule "UBOS-template-get-feedback-ui"]
+	path = UBOS-template-get-feedback-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-get-feedback-ui.git
+	branch = main
+[submodule "UBOS-template-get-feedback-nr"]
+	path = UBOS-template-get-feedback-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-get-feedback-nr.git
+	branch = main
