@@ -5,4 +5,4 @@
 [submodule "UBOS-template-get-feedback-nr"]
 	path = UBOS-template-get-feedback-nr
 	url = https://github.com/UBOS-Asset-Store/UBOS-template-get-feedback-nr.git
-	branch = main
+	branch = origin
